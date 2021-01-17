@@ -1,0 +1,685 @@
+PCBNEW-LibModule-V1  03/02/2015 17:41:12
+# encoding utf-8
+Units mm
+$INDEX
+Mini-Fit_16W
+Mini-Fit_20W
+Mini-Fit_2W
+Mini-Fit_3W
+Mini-Fit_4W
+Mini-Fit_6W
+Mini-Fit_8W
+$EndINDEX
+$MODULE Mini-Fit_16W
+Po 0 0 0 15 5464DEA1 00000000 ~~
+Li Mini-Fit_16W
+Sc 0
+AR 
+Op 0 0 0
+T0 0.01 6.02 1 1 0 0.15 N V 21 N "Mini-Fit_16W"
+T1 0.5 0 1 1 0 0.15 N I 21 N "VAL**"
+DS -17.4 -5.2 -17.4 -5.25 0.15 21
+DS 2.7 -5.25 2.35 -5.25 0.15 21
+DS 17.4 5.05 17.4 5.25 0.15 21
+DS 2.45 5.25 2.7 5.25 0.15 21
+DS -17.4 5.25 -17.4 5.1 0.15 21
+DS -2.7 5.25 -2.45 5.25 0.15 21
+DS -2.55 5.25 -2.7 5.25 0.15 21
+DS -17.4 4.6 -17.4 5.2 0.15 21
+DS 17.4 4.6 17.4 5.2 0.15 21
+DS -17.4 -5.1 -17.4 -5.2 0.15 21
+DS -17.4 -4.6 -17.4 -5.1 0.15 21
+DS 0 5.25 -2.5 5.25 0.15 21
+DS -17.4 5.25 17.4 5.25 0.15 21
+DS 2.5 5.25 2.25 5.25 0.15 21
+DS -17.4 -5.25 17.4 -5.25 0.15 21
+DS 17.4 4.6 17.4 -5.25 0.15 21
+DS -17.4 -4.6 -17.4 0 0.15 21
+DS -17.4 0 -17.4 4.6 0.15 21
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.7 2.75
+$EndPAD
+$PAD
+Sh "9" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.7 -2.75
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -19.4 -2.29
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 19.4 -2.29
+$EndPAD
+$PAD
+Sh "10" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.5 -2.75
+$EndPAD
+$PAD
+Sh "11" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.3 -2.75
+$EndPAD
+$PAD
+Sh "12" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 -2.75
+$EndPAD
+$PAD
+Sh "13" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 -2.75
+$EndPAD
+$PAD
+Sh "14" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.3 -2.75
+$EndPAD
+$PAD
+Sh "15" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.5 -2.75
+$EndPAD
+$PAD
+Sh "16" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.7 -2.75
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.5 2.75
+$EndPAD
+$PAD
+Sh "3" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.3 2.75
+$EndPAD
+$PAD
+Sh "4" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 2.75
+$EndPAD
+$PAD
+Sh "5" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 2.75
+$EndPAD
+$PAD
+Sh "6" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.3 2.75
+$EndPAD
+$PAD
+Sh "7" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.5 2.75
+$EndPAD
+$PAD
+Sh "8" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.7 2.75
+$EndPAD
+$EndMODULE Mini-Fit_16W
+$MODULE Mini-Fit_20W
+Po 0 0 0 15 546A20DB 00000000 ~~
+Li Mini-Fit_20W
+Sc 0
+AR 
+Op 0 0 0
+T0 0.01 6.02 1 1 0 0.15 N V 21 N "Mini-Fit_20W"
+T1 0.5 0 1 1 0 0.15 N I 21 N "VAL**"
+DS -17.35 -5.25 -21.6 -5.25 0.15 21
+DS -17.35 5.25 -21.6 5.25 0.15 21
+DS 17.425 5.25 21.6 5.25 0.15 21
+DS 17.425 -5.25 21.6 -5.25 0.15 21
+DS -21.6 -5.2 -21.6 -5.25 0.15 21
+DS 2.7 -5.25 2.35 -5.25 0.15 21
+DS 21.6 5.05 21.6 5.25 0.15 21
+DS 2.45 5.25 2.7 5.25 0.15 21
+DS -21.6 5.25 -21.6 5.1 0.15 21
+DS -2.7 5.25 -2.45 5.25 0.15 21
+DS -2.55 5.25 -2.7 5.25 0.15 21
+DS -21.6 4.6 -21.6 5.2 0.15 21
+DS 21.6 4.6 21.6 5.2 0.15 21
+DS -21.6 -5.1 -21.6 -5.2 0.15 21
+DS -21.6 -4.6 -21.6 -5.1 0.15 21
+DS 0 5.25 -2.5 5.25 0.15 21
+DS -17.4 5.25 17.4 5.25 0.15 21
+DS 2.5 5.25 2.25 5.25 0.15 21
+DS -17.4 -5.25 17.4 -5.25 0.15 21
+DS 21.6 4.6 21.6 -5.25 0.15 21
+DS -21.6 -4.6 -21.6 0 0.15 21
+DS -21.6 0 -21.6 4.6 0.15 21
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18.9 2.75
+$EndPAD
+$PAD
+Sh "12" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.7 -2.75
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -23.6 -2.3
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 23.6 -2.3
+$EndPAD
+$PAD
+Sh "13" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.5 -2.75
+$EndPAD
+$PAD
+Sh "14" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.3 -2.75
+$EndPAD
+$PAD
+Sh "15" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 -2.75
+$EndPAD
+$PAD
+Sh "16" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 -2.75
+$EndPAD
+$PAD
+Sh "17" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.3 -2.75
+$EndPAD
+$PAD
+Sh "18" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.5 -2.75
+$EndPAD
+$PAD
+Sh "19" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.7 -2.75
+$EndPAD
+$PAD
+Sh "3" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.5 2.75
+$EndPAD
+$PAD
+Sh "4" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.3 2.75
+$EndPAD
+$PAD
+Sh "5" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 2.75
+$EndPAD
+$PAD
+Sh "6" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 2.75
+$EndPAD
+$PAD
+Sh "7" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.3 2.75
+$EndPAD
+$PAD
+Sh "8" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.5 2.75
+$EndPAD
+$PAD
+Sh "9" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.7 2.75
+$EndPAD
+$PAD
+Sh "10" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18.9 2.75
+$EndPAD
+$PAD
+Sh "20" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18.9 -2.75
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.7 2.75
+$EndPAD
+$PAD
+Sh "11" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18.9 -2.75
+$EndPAD
+$EndMODULE Mini-Fit_20W
+$MODULE Mini-Fit_2W
+Po 0 0 0 15 53F0FABF 00000000 ~~
+Li Mini-Fit_2W
+Sc 0
+AR 
+Op 0 0 0
+T0 3.81 2.032 1 1 900 0.15 N V 21 N "Mini-Fit_2W"
+T1 0.5 0 1 1 0 0.15 N I 21 N "VAL**"
+DS -2.65 -5.25 -2.4 -5.25 0.15 21
+DS -2.7 -5.2 -2.7 -5.25 0.15 21
+DS -2.7 -5.25 -2.55 -5.25 0.15 21
+DS 2.7 -5.2 2.7 -5.25 0.15 21
+DS 2.7 -5.25 2.35 -5.25 0.15 21
+DS 2.7 5.05 2.7 5.25 0.15 21
+DS 2.45 5.25 2.7 5.25 0.15 21
+DS -2.7 5.25 -2.7 5.1 0.15 21
+DS -2.7 5.25 -2.45 5.25 0.15 21
+DS -2.55 5.25 -2.7 5.25 0.15 21
+DS -2.7 4.6 -2.7 5.2 0.15 21
+DS 2.7 4.6 2.7 5.2 0.15 21
+DS -2.7 -5.1 -2.7 -5.2 0.15 21
+DS -2.7 -4.6 -2.7 -5.1 0.15 21
+DS 2.7 -4.6 2.7 -5.2 0.15 21
+DS 0 5.25 -2.5 5.25 0.15 21
+DS -2.5 5.25 2.5 5.25 0.15 21
+DS 2.5 5.25 2.25 5.25 0.15 21
+DS 0 -5.25 -2.5 -5.25 0.15 21
+DS -2.5 -5.25 2.5 -5.25 0.15 21
+DS 2.7 4.6 2.7 -4.6 0.15 21
+DS -2.7 -4.6 -2.7 0 0.15 21
+DS -2.7 0 -2.7 4.6 0.15 21
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.75
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.75
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.7 -2.29
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.7 -2.29
+$EndPAD
+$EndMODULE Mini-Fit_2W
+$MODULE Mini-Fit_3W
+Po 0 0 0 15 53F0FF83 00000000 ~~
+Li Mini-Fit_3W
+Sc 0
+AR /53E38AB3
+Op 0 0 0
+T0 -1.905 3.683 1 1 0 0.15 N V 21 N "Mini-Fit_3W"
+T1 0 1.8 1 1 0 0.15 N I 21 N "CONN_3"
+DS 0 2.7 -6.9 2.7 0.15 21
+DS -6.9 2.7 -6.9 -2.7 0.15 21
+DS -6.9 -2.7 6.9 -2.7 0.15 21
+DS 6.9 -2.7 6.9 2.7 0.15 21
+DS 6.9 2.7 -0.1 2.7 0.15 21
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 2.15 5.55
+$EndPAD
+$PAD
+Sh "3" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.2 0
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.2 0
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.15 -3.85
+$EndPAD
+$EndMODULE Mini-Fit_3W
+$MODULE Mini-Fit_4W
+Po 0 0 0 15 54D10762 00000000 ~~
+Li Mini-Fit_4W
+Sc 0
+AR 
+Op 0 0 0
+T0 0.01 6.02 1 1 0 0.15 N V 21 N "Mini-Fit_4W"
+T1 0.5 0 1 1 0 0.15 N I 21 N "VAL**"
+DS 4.6 -5.25 -4.6 -5.25 0.15 21
+DS -2.7 5.25 -2.45 5.25 0.15 21
+DS -2.55 5.25 -2.7 5.25 0.15 21
+DS 4.6 5.25 -4.6 5.25 0.15 21
+DS 4.6 -5.25 4.6 5.25 0.15 21
+DS -4.6 -5.25 -4.6 5.25 0.15 21
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 2.75
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -6.8 -2.29
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 6.8 -2.29
+$EndPAD
+$PAD
+Sh "3" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 -2.75
+$EndPAD
+$PAD
+Sh "4" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 -2.75
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 2.75
+$EndPAD
+$EndMODULE Mini-Fit_4W
+$MODULE Mini-Fit_6W
+Po 0 0 0 15 54D10833 00000000 ~~
+Li Mini-Fit_6W
+Sc 0
+AR 
+Op 0 0 0
+T0 0.01 6.02 1 1 0 0.15 N V 21 N "Mini-Fit_6W"
+T1 0.5 0 1 1 0 0.15 N I 21 N "VAL**"
+DS 6.9 -5.25 -6.9 -5.25 0.15 21
+DS -2.7 5.25 -2.45 5.25 0.15 21
+DS -2.55 5.25 -2.7 5.25 0.15 21
+DS 6.9 5.25 -6.9 5.25 0.15 21
+DS 6.9 -5.25 6.9 5.25 0.15 21
+DS -6.9 -5.25 -6.9 5.25 0.15 21
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.2 2.75
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -8.9 -2.29
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 8.9 -2.29
+$EndPAD
+$PAD
+Sh "3" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.2 2.75
+$EndPAD
+$PAD
+Sh "4" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.2 -2.75
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.75
+$EndPAD
+$PAD
+Sh "5" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.75
+$EndPAD
+$PAD
+Sh "6" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.2 -2.75
+$EndPAD
+$EndMODULE Mini-Fit_6W
+$MODULE Mini-Fit_8W
+Po 0 0 0 15 5464E3E8 00000000 ~~
+Li Mini-Fit_8W
+Sc 0
+AR 
+Op 0 0 0
+T0 0.01 6.02 1 1 0 0.15 N V 21 N "Mini-Fit_8W"
+T1 0.5 0 1 1 0 0.15 N I 21 N "VAL**"
+DS -9 -5.2 -9 -5.25 0.15 21
+DS 2.7 -5.25 2.35 -5.25 0.15 21
+DS 9 5.05 9 5.25 0.15 21
+DS 2.45 5.25 2.7 5.25 0.15 21
+DS -9 5.25 -9 5.1 0.15 21
+DS -2.7 5.25 -2.45 5.25 0.15 21
+DS -2.55 5.25 -2.7 5.25 0.15 21
+DS -9 4.6 -9 5.2 0.15 21
+DS 9 4.6 9 5.2 0.15 21
+DS -9 -5.1 -9 -5.2 0.15 21
+DS -9 -4.6 -9 -5.1 0.15 21
+DS 0 5.25 -2.5 5.25 0.15 21
+DS -9 5.25 9 5.25 0.15 21
+DS 2.5 5.25 2.25 5.25 0.15 21
+DS -9 -5.25 9 -5.25 0.15 21
+DS 9 4.6 9 -5.25 0.15 21
+DS -9 -4.6 -9 0 0.15 21
+DS -9 0 -9 4.6 0.15 21
+$PAD
+Sh "1" R 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.3 2.75
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -11 -2.29
+$EndPAD
+$PAD
+Sh "" C 3 3 0 0 0
+Dr 3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 11 -2.29
+$EndPAD
+$PAD
+Sh "5" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.3 -2.75
+$EndPAD
+$PAD
+Sh "6" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 -2.75
+$EndPAD
+$PAD
+Sh "7" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 -2.75
+$EndPAD
+$PAD
+Sh "8" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.3 -2.75
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.1 2.75
+$EndPAD
+$PAD
+Sh "3" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.1 2.75
+$EndPAD
+$PAD
+Sh "4" C 3 3 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.3 2.75
+$EndPAD
+$EndMODULE Mini-Fit_8W
+$EndLIBRARY

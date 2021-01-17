@@ -1,0 +1,198 @@
+PCBNEW-LibModule-V1  13/09/2015 12:57:30
+# encoding utf-8
+Units mm
+$INDEX
+Molex_header_2.54_2W
+Molex_header_2.54_4W
+Molex_header_2.54_6W
+PIN_ARRAY_2X1
+$EndINDEX
+$MODULE Molex_header_2.54_2W
+Po 0 0 0 15 53F1CB61 00000000 ~~
+Li Molex_header_2.54_2W
+Cd Molex_header_2.54_2W
+Kw CONN DEV
+Sc 0
+AR /53EB7C6E
+Op 0 0 0
+T0 0 -1.905 0.762 0.762 0 0.1524 N V 21 N "K6"
+T1 0 -1.905 0.762 0.762 0 0.1524 N I 21 N "CONN_2"
+DS -2.6 -2.9 2.6 -2.9 0.15 21
+DS 2.6 -2.9 2.6 2.9 0.15 21
+DS 2.6 2.9 -2.6 2.9 0.15 21
+DS -2.6 2.9 -2.6 -2.9 0.15 21
+$PAD
+Sh "1" R 2 2 0 0 0
+Dr 1.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1.25 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_2x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Molex_header_2.54_2W
+$MODULE Molex_header_2.54_4W
+Po 0 0 0 15 541191CA 00000000 ~~
+Li Molex_header_2.54_4W
+Cd Molex_header_2.54_2W
+Kw CONN DEV
+Sc 0
+AR /53EB7C6E
+Op 0 0 0
+T0 0 2.14 0.762 0.762 0 0.1524 N V 21 N "K6"
+T1 0 -2.03 0.762 0.762 0 0.1524 N I 21 N "CONN_4"
+DS -5.14 2.95 -5.14 2.75 0.15 21
+DS 5.135 2.925 -5.14 2.95 0.15 21
+DS 5.135 -2.9 5.135 2.925 0.15 21
+DS 5.035 -2.9 5.135 -2.9 0.15 21
+DS -5.14 -2.9 5.035 -2.9 0.15 21
+DS -5.14 2.9 -5.14 -2.9 0.15 21
+$PAD
+Sh "1" R 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "4" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_2x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Molex_header_2.54_4W
+$MODULE Molex_header_2.54_6W
+Po 0 0 0 15 55F56425 00000000 ~~
+Li Molex_header_2.54_6W
+Cd Molex_header_2.54_6W
+Kw CONN DEV
+Sc 0
+AR /53EB7C6E
+Op 0 0 0
+T0 0 2.14 0.762 0.762 0 0.1524 N V 21 N "K6"
+T1 0 -2.03 0.762 0.762 0 0.1524 N I 21 N "CONN_6"
+DS 2.56 -2.9 7.76 -2.9 0.15 21
+DS 7.76 -2.9 7.76 2.9 0.15 21
+DS 7.76 2.9 7.76 3 0.15 21
+DS 7.76 3 -7.64 3 0.15 21
+DS -7.68 2.95 -7.68 2.75 0.15 21
+DS 2.495 -2.9 2.595 -2.9 0.15 21
+DS -7.68 -2.9 2.495 -2.9 0.15 21
+DS -7.68 2.9 -7.68 -2.9 0.15 21
+$PAD
+Sh "1" R 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "4" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "5" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "6" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_2x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE Molex_header_2.54_6W
+$MODULE PIN_ARRAY_2X1
+Po 0 0 0 15 53F13A11 00000000 ~~
+Li PIN_ARRAY_2X1
+Cd Connecteurs 2 pins
+Kw CONN DEV
+Sc 0
+AR /53EB7C6E
+Op 0 0 0
+T0 0 -1.905 0.762 0.762 0 0.1524 N V 21 N "K6"
+T1 0 -1.905 0.762 0.762 0 0.1524 N I 21 N "CONN_2"
+DS -2.54 1.27 -2.54 -1.27 0.1524 21
+DS -2.54 -1.27 2.54 -1.27 0.1524 21
+DS 2.54 -1.27 2.54 1.27 0.1524 21
+DS 2.54 1.27 -2.54 1.27 0.1524 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 1 "+12V"
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 2 "GND"
+Po 1.27 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_2x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE PIN_ARRAY_2X1
+$EndLIBRARY

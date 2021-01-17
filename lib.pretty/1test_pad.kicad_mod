@@ -1,0 +1,15 @@
+(module 1test_pad (layer F.Cu) (tedit 5A2FB9B7)
+  (attr virtual)
+  (fp_text reference TP? (at 0 1.6) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  )
+  (fp_text value VALUE (at 0 2.4) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
+  (model smd/capacitors/c_0805.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

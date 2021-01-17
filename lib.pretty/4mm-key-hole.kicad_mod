@@ -1,0 +1,16 @@
+(module 4mm-key-hole locked (layer F.Cu) (tedit 5A3C1971)
+  (attr virtual)
+  (fp_text reference SCR6 (at 0 1.935) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Screw (at 0 1.935) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole oval (at 0 2.85) (size 8 14) (drill oval 4.3 10) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 0 7.65) (size 10 10) (drill 8) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 0 -3.15) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 3.1 1.25) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 2.9 -1.25) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -2.95 1.25) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -2.8 -1.25) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+)

@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# NET-TIE
+#
+DEF NET-TIE W 0 0 N N 1 F N
+F0 "W" 0 100 60 H V C CNN
+F1 "NET-TIE" 0 -100 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+P 2 0 1 12 100 0 -100 0 N
+X ~ 1 -150 0 50 R 50 50 1 1 P
+X ~ 2 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# net-tie-double
+#
+DEF net-tie-double W 0 0 N N 1 F N
+F0 "W" 0 100 60 H V C CNN
+F1 "net-tie-double" 0 -100 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+P 2 0 1 12 100 0 -100 0 N
+X ~ 1B -150 0 50 R 50 50 1 1 P
+X ~ 2B 150 0 50 L 50 50 1 1 P
+X ~ 1F -150 0 50 R 50 50 1 1 P
+X ~ 2F 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
